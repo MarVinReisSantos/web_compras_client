@@ -86,7 +86,7 @@ class Login extends Component {
                       },
                     ]}
                     hasFeedback
-                    initialValue="Tek@gmail.com"
+                    initialValue="marcos.vinicius.reis.santos.98@gmail.com"
                   >
                     <Input
                       prefix={<UserOutlined className="site-form-item-icon" />}
@@ -103,7 +103,7 @@ class Login extends Component {
                       },
                     ]}
                     hasFeedback
-                    initialValue="helloworld1"
+                    initialValue="123456"
                   >
                     <Input.Password
                       prefix={<LockOutlined className="site-form-item-icon" />}
